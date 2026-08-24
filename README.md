@@ -1,7 +1,7 @@
 ## Hi👋, I'm Rafael Bernal
-🇧🇷Brazil
+**🇧🇷 Brazil**
+**💻 Systems Analysis and Development Student - SENACSP**
 
-- 💻 Systems Analysis and Development Student - SENACSP
 - 🐍Currently studying Python 
 - 🚀 Seeking to grow through practical projects
 - 📫Contact me via email at rafaelbernal873@gmail.com.
