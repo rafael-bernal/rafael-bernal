@@ -27,9 +27,9 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: username=rafael-bernal&theme=algolia
+          options: username=rafael-bernal&theme=algolia&count_private=true
           path: profile/top-langs.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.SUMMARY_GITHUB_TOKEN }}
 
       - name: Commit cards
         run: |
