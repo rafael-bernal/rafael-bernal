@@ -1,10 +1,10 @@
 ## Hi👋, I'm Rafael Bernal
 🇧🇷Brazil
 
-- 💻 Estudante de Análise e Desenvolvimento de Sistemas
-- 🐍 Atualmente estudando Python 
-- 🚀 Buscando evoluir através de projetos práticos 
-- 📫 Fale comigo pelo meu email: rafaelbernal873@gmail.com 
+- 💻 Systems Analysis and Development Student - SENACSP
+- 🐍Currently studying Python 
+- 🚀 Seeking to grow through practical projects
+- 📫Contact me via email at rafaelbernal873@gmail.com. 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
