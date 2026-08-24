@@ -1,4 +1,5 @@
-## Olá! Me chamo Rafael Bernal
+## Hi👋, I'm Rafael Bernal
+🇧🇷Brazil
 
 - 💻 Estudante de Análise e Desenvolvimento de Sistemas
 - 🐍 Atualmente estudando Python 
