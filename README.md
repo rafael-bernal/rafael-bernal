@@ -15,6 +15,7 @@
  
 ## 📊 GitHub Stats
 
-<img src="./profile/stats.svg" width="450"/>
-<br/>
-<img src="./profile/top-langs.svg" width="450"/>
+<p align="left">
+<img height="170" src="./profile/stats.svg" />
+<img height="170" src="./profile/top-langs.svg" />
+</p>
