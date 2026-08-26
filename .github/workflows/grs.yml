@@ -19,15 +19,15 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=rafael-bernal&show_icons=true&theme=algolia
+          options: username=rafael-bernal&show_icons=true&theme=tokyonight&count_private=true
           path: profile/stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.SUMMARY_GITHUB_TOKEN }}
 
       - name: Generate top languages card
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: username=rafael-bernal&theme=algolia&count_private=true
+          options: username=rafael-bernal&theme=tokyonight&count_private=true&exclude_repo=github-stats-extended,rafaballerini
           path: profile/top-langs.svg
           token: ${{ secrets.SUMMARY_GITHUB_TOKEN }}
 
