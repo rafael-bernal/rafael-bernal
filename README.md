@@ -2,8 +2,8 @@
 **🇧🇷 Brazil**
 **💻 Systems Analysis and Development Student - SENACSP**
 
-- 🐍Currently studying Python 
-- 🚀 Seeking to grow through practical projects
+- 🐍Developing projects with Python
+- 🚀 Building practical projects to improve my programming skills
 - 📫Contact me via email at rafaelbernal873@gmail.com.
  
 <div> 
